@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ### Workflow
 ![image](https://github.com/user-attachments/assets/7dee4951-04cf-493d-880b-4431e8f91d16)
 
+
+
 [1] Read Seat Numbers from input.csv
   │
   ├──> [2] Send request to SPPU Result Portal
