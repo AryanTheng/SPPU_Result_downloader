@@ -48,4 +48,5 @@ pip install -r requirements.txt
   │       └─ results.pdf (pretty formatted for print)
   │
   └──> [5] Log errors to `errors.log` if seat not found or site fails
+
   
